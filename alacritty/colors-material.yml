@@ -1,0 +1,28 @@
+# Alcritty colors
+# Awesthetic Colorscheme for Alacritty
+
+colors:
+  primary:
+    background: '#121013'
+    foreground: '#E1E0E0'
+  cursor:
+    text:   CellForeground
+    cursor: '#B4CDF1'
+  bright:
+    black:   '#121013'
+    red:     '#F4ADA5'
+    green:   '#A7F4A5'
+    yellow:  '#F3F4A5'
+    blue:    '#A5C0F4'
+    magenta: '#F4A5ED'
+    cyan:    '#A5EEF4'
+    white:   '#E1E0E0'
+  normal:
+    black:   '#121013'
+    red:     '#F4ADA5'
+    green:   '#A7F4A5'
+    yellow:  '#F3F4A5'
+    blue:    '#A5C0F4'
+    magenta: '#F4A5ED'
+    cyan:    '#A5EEF4'
+    white:   '#E1E0E0'

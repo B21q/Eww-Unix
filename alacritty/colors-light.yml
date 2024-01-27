@@ -1,0 +1,28 @@
+# Alcritty colors
+# Cutesome Colorscheme
+
+colors:
+  primary:
+    background: '#121013'
+    foreground: '#B4CDF1'
+  cursor:
+    text:   CellForeground
+    cursor: '#B4CDF1'
+  bright:
+    black:   '#121013'
+    red:     '#F1BEB4'
+    green:   '#B5F1B4'
+    yellow:  '#F0F1B4'
+    blue:    '#B4CDF1'
+    magenta: '#EEB4F1'
+    cyan:    '#B4EBF1'
+    white:   '#BABABA'
+  normal:
+    black:   '#121013'
+    red:     '#F1BEB4'
+    green:   '#B5F1B4'
+    yellow:  '#F0F1B4'
+    blue:    '#B4CDF1'
+    magenta: '#EEB4F1'
+    cyan:    '#B4EBF1'
+    white:   '#BABABA'
